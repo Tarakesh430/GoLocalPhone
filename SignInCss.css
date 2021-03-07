@@ -1,0 +1,63 @@
+
+.sign-in{
+	background-color:#00FFFF;
+}
+.sign-in-form{
+	width:400px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: LightCyan;
+	padding: 60px;
+	margin: 5% auto 0;
+	text-align: center;
+}
+.input-box{
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px 0;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+	height:30px;
+}
+.sign-in-form h1{
+	color: 000000;
+	margin-bottom:20px;
+	text-align: center;
+}
+button{
+	color: black;
+	width: 80%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	background-color:BC8F8F;
+}
+hr{
+	margin-top: 20px;
+	width: 80%;
+}
+	.or{
+		background: #fff;
+		width: 20px;
+		margin: -17px auto 10px;
+	}
+
+
+
+.user-rgn{
+	background-image: url("userBackground.jpg");
+	background-size: cover;
+}
+.user-register-form {
+	width:400px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: LightCyan;
+	padding: 60px;
+	margin: 5% auto 0;
+	text-align: center;
+}
+
+	
